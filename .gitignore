@@ -106,5 +106,3 @@ ENV/
 # fastq files
 .txt.gz
 
-# zip file
-.zip
